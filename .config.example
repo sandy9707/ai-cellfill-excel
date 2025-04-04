@@ -1,0 +1,23 @@
+[API_X]
+KEY = xai-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ENDPOINT = https://api.x.ai/v1
+MODEL = grok-2-latest
+NAME = X_AI
+TYPE = openai
+ENABLED = true
+
+[API_ALIYUN]
+KEY = sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ENDPOINT = https://dashscope.aliyuncs.com/compatible-mode/v1
+MODEL = qwen-plus
+NAME = Aliyun_Qwen
+TYPE = openai
+ENABLED = false
+
+[API_GOOGLE]
+KEY = AIxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ENDPOINT = https://generativelanguage.googleapis.com/v1beta/models
+MODEL = gemini-2.5-pro-exp-03-25
+NAME = Google_Gemini
+TYPE = google
+ENABLED = false
