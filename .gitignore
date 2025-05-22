@@ -1,1 +1,12 @@
 .config
+.DS_Store
+__pycache__/api.cpython-312.pyc
+__pycache__/config.cpython-312.pyc
+__pycache__/excel.cpython-312.pyc
+__pycache__/log_utils.cpython-312.pyc
+__pycache__/logging.cpython-312.pyc
+__pycache__/system_prompt.cpython-312.pyc
+utils/__pycache__/api.cpython-312.pyc
+utils/__pycache__/config.cpython-312.pyc
+utils/__pycache__/excel.cpython-312.pyc
+utils/__pycache__/system_prompt.cpython-312.pyc
